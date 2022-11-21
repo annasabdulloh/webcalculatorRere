@@ -39,7 +39,7 @@ body {
 .operator,
 .negative,
 .equals {
-  background: rgb(0, 192, 192);
+  background: rgb(167, 0, 144);
 }
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
